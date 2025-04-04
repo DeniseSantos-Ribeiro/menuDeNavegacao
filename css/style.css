@@ -31,3 +31,7 @@ body{
     background-color: rgb(12, 138, 138);
     text-align:center;
 }
+h1{
+    margin: top 10px;
+    color: white;
+}
